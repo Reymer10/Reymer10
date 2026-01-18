@@ -61,17 +61,10 @@ Me interesa aprender buenas prácticas de desarrollo, arquitectura backend, base
 ### 📫 Contáctame  
 🔗 LinkedIn:  
 https://www.linkedin.com/in/reymer-jimenez-9722982b8/
+
 📧 Correo profesional: **reymerj19@outlook.com**  
 
 ---
-
-### 📝 Blog (en proceso)  
-Estoy comenzando a documentar mi aprendizaje en:  
-- Dev.to: https://dev.to/reymer10  
-- Medium: https://medium.com/@reymer10  
-
----
-
 
 ---
 
